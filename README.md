@@ -1,2 +1,2 @@
-# comp
+# comp.github.io
 Computer Project
