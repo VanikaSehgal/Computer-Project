@@ -1,2 +1,0 @@
-# comp
-Computer Project
