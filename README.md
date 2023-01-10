@@ -1,5 +1,5 @@
-# comp.github.io
-Computer Project
+
+
 <html>
 <head>
 <style>
@@ -44,5 +44,3 @@ is truly amazing and we want to make experience this feeling all around the worl
 <br>CONTACT US ON:<br>01145679184<br>91 8130733299<br>
 <a href="https://gmail.com/">wanderlusttoursandtravels@gmail.com</a>
 </body>
-<head>
-</html>
