@@ -1,5 +1,3 @@
-
-
 <html>
 <head>
 <style>
@@ -23,7 +21,7 @@ WANDERLUST
 &emsp;<a href="ACTIVITIES.html">ACTIVITIES</a>
 &emsp;<a href="ABOUT US.html">ABOUT US</a>
 </p4>
-<div><img src="C:\Users\hp\Downloads\places gif.gif">
+<div><img src="C:\Users\hp\Downloads\places gif (1).gif">
 </div>
 <body>
 <p1>WELCOME TO WANDERLUST TOURS AND TRAVELS! The place where the beginning of a new magical journey happens! Our company helps to pick out the places that can be visited according to your need,
@@ -44,3 +42,4 @@ is truly amazing and we want to make experience this feeling all around the worl
 <br>CONTACT US ON:<br>01145679184<br>91 8130733299<br>
 <a href="https://gmail.com/">wanderlusttoursandtravels@gmail.com</a>
 </body>
+
